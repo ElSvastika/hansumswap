@@ -1,0 +1,53 @@
+{
+  "name": "Juno Token List",
+  "logoURI": "",
+  "keywords": [
+    "special tokens"
+  ],
+  "tags": {
+    "Juno": {
+      "name": "Juno",
+      "description": "Tokens that are listed on Juno"
+    }
+  },
+  "timestamp": "2022-01-12T00:00:00+00:00",
+  "base_token": {
+    "id": "juno-network",
+    "pool_id": "JUNO+JUNO",
+    "chain_id": "juno-1",
+    "token_address": "",
+    "swap_address": "",
+    "symbol": "JUNO",
+    "name": "Juno",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+    "tags": [
+      "native"
+    ],
+    "native": true,
+    "denom": "ujuno"
+  },
+  "tokens": [
+    {
+      "id": "",
+      "pool_id": "JUNO-HANSUM",
+      "chain_id": "juno-1",
+      "token_address": "juno1txtq2w57v5lg5usd8dgdufqznrlvwf2gyqethp9glhpynjsp9yxsr78vwu",
+      "swap_address": "juno13k5sfk6hs53sjltc5mu4evp2z7x4e8vcmxxzah525z0xukmk0hfqc6lu6d",
+      "symbol": "HANSUM",
+      "name": "HANSUM",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/nanabonobo7000/junoswap-asset-list/main/images/hansum.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom":"hansum"
+     }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
