@@ -29,7 +29,7 @@
   },
   "tokens": [
     {
-      "id": "",
+      "id": "hansum-clib",
       "pool_id": "JUNO-HANSUM",
       "chain_id": "juno-1",
       "token_address": "juno1txtq2w57v5lg5usd8dgdufqznrlvwf2gyqethp9glhpynjsp9yxsr78vwu",
@@ -44,6 +44,22 @@
       "native":false,
       "denom":"hansum"
      }
+     {
+      "id": "juno-network",
+      "pool_id": "JUNO+JUNO",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "",
+      "symbol": "JUNO",
+      "name": "Juno",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ujuno"
+    },
   ],
   "version": {
     "major": 0,
