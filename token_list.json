@@ -29,7 +29,7 @@
   },
   "tokens": [
     {
-      "id": "hansum-clib",
+      "id": "hansum-club",
       "pool_id": "JUNO-HANSUM",
       "chain_id": "juno-1",
       "token_address": "juno1txtq2w57v5lg5usd8dgdufqznrlvwf2gyqethp9glhpynjsp9yxsr78vwu",
@@ -43,7 +43,7 @@
       ],
       "native":false,
       "denom":"hansum"
-     }
+     },
      {
       "id": "juno-network",
       "pool_id": "JUNO+JUNO",
